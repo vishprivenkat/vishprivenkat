@@ -1,2 +1,2 @@
 # Introduction
-This is a repo for my personal website
+Repo for a website
